@@ -1,0 +1,12 @@
+{
+  "name": "time",
+  "version": "0.0.0",
+  "description": "Sends different HID messages based on time of the day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Andy Nix",
+  "license": "BSD"
+}
